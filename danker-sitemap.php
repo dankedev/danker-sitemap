@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Danker Sitemap - Flexible Sitemap Page
-Plugin URI: http://www.dankedev.com
+Plugin URI: https://www.dankedev.com/plugin/danker-sitemap/
 Description: Easy To make sitemap page.
 Author: Hadie Danker
 Version: 1.0
