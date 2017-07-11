@@ -40,5 +40,7 @@ Implementation in theme `page-sitemap.php`
 </div>
 ```
 
+[Download Here](https://github.com/dankedev/danker-sitemap/archive/master.zip)
+
 
 [buy me a coffe](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=R45YAHZH6R4EY)
